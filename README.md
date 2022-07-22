@@ -10,7 +10,7 @@
 A PWA application which has a text editor in which one can write things such as console.log('hello,World!') and it will be displayed 
 
 ## Installation
-get the code and npm i then npm start:dev then it should be running
+get the code and npm i when neede then go to client folder and run npm start and npm dev then it should be running
 
 ## Usage
 just write anything you want to see displayed
